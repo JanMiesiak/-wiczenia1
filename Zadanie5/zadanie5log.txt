@@ -1,0 +1,12 @@
+*   0099878 (HEAD -> master) fixed conflict
+|\
+| * 952e782 (feature-new) zadanie5 commit
+* | 704e486 zadanie5 commit2
+|/
+* cd988ee (origin/master) zadanie4 initial commit
+* c995b1a zadanie3 final commit
+* cd10678 (origin/feature-average, feature-average) feature-average-commit
+* 37bface Modyfikacja 3
+* 7b3dfa0 Modyfikacja 2
+* 0dd906e Modyfikacja 1
+* 6f8372b Initial project
