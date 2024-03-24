@@ -1,0 +1,18 @@
+﻿static double findMax(int []arr)
+{
+    int max = arr[0];
+    for (int i = 0; i < arr.Length; i++) 
+    {
+        if (arr[i] > max)
+        {
+            max = arr[i];
+        }
+
+    }
+    
+    return max;
+}
+
+//example use
+int[] tmp = [1,6,3,4];
+Console.WriteLine(findMax(tmp));
