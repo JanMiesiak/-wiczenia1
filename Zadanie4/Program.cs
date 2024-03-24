@@ -14,5 +14,6 @@
 }
 
 //example use
-int[] tmp = [1,6,3,4];
+int[] tmp = [1,7,7,4];
 Console.WriteLine(findMax(tmp));
+
