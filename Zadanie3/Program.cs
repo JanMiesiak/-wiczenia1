@@ -1,13 +1,13 @@
 ﻿static double calculateAverage(int []arr)
 {
-    double avg = 0;
+    double avg1 = 0;
         for (int i = 0; i < arr.Length; i++) 
         {
-            avg+=arr[i];
+            avg1+=arr[i];
             
         }
-        avg = avg/arr.Length;
-        return avg;
+        avg1 = avg1/arr.Length;
+        return avg1;
     }
 
 //example use
