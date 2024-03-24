@@ -1,0 +1,5 @@
+* cd10678 (HEAD -> master, feature-average) feature-average-commit
+* 37bface (origin/master) Modyfikacja 3
+* 7b3dfa0 Modyfikacja 2
+* 0dd906e Modyfikacja 1
+* 6f8372b Initial project
